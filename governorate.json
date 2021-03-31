@@ -1,0 +1,97 @@
+[{
+        "row_number": 1,
+        "governorateid": 1,
+        "governoratearabicname": "محافظة عجلون",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 2,
+        "governorateid": 2,
+        "governoratearabicname": "محافظة اربد",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 3,
+        "governorateid": 3,
+        "governoratearabicname": "محافظة البلقاء",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 4,
+        "governorateid": 4,
+        "governoratearabicname": "محافظة الزرقاء",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 5,
+        "governorateid": 5,
+        "governoratearabicname": "محافظة الطفيلة",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 6,
+        "governorateid": 6,
+        "governoratearabicname": "محافظة العقبة",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 7,
+        "governorateid": 7,
+        "governoratearabicname": "محافظة الكرك",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 8,
+        "governorateid": 8,
+        "governoratearabicname": "محافظة المفرق",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 9,
+        "governorateid": 9,
+        "governoratearabicname": "محافظة جرش",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 10,
+        "governorateid": 10,
+        "governoratearabicname": "محافظة مادبا",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 11,
+        "governorateid": 11,
+        "governoratearabicname": "محافظة معان",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    },
+    {
+        "row_number": 12,
+        "governorateid": 12,
+        "governoratearabicname": "محافظة عمان",
+        "governorateenglishname": null,
+        "governoratecode": null,
+        "totalrowcount": 12
+    }
+]
